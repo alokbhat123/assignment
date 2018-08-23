@@ -1,10 +1,10 @@
 
 --------------------- Features ----------------------------
 
-1) The application uses dynamic API to fetch the 5 day forecast weather and show it in form of charts.
+1) The application uses dynamic API to fetch the 5 day forecast weather and shows it in the form of charts.
 2) The application uses internal logic to find whether it would rain/snow on a particular day depending on temparature, humidity etc and shows it in the cloud/sun images inside the chart.(As of now logic is very basic).
 3) Conslidated view of temparature difference (spline chart) and temparature magnitude (using bar charts).
-4) On hovering on chart, the tooltips  appear and give effect of synchronized tooltips.
+4) On hovering on chart, the tooltips give effect of synchronized hovering.
 5) On click of chart, Grid Modal appears which gives the drill-down to detailed view of weather parameters.
 
 
