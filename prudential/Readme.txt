@@ -9,10 +9,10 @@
 --------------- Running this project -------------------------
 
 1) If using tomcat server:-
-  a) copy paste the whole folder into webapps directory of apache tomcat and then run assignment/prudential/src/main.html page.
+  a) copy paste the whole folder into webapps directory of apache tomcat and then run assignment/prudential/src/main/main.html page.
 
 2) If Running on local machine:-
- a) open the project folder and double click assignment/prudential/src/main.html page.
+ a) open the project folder and double click assignment/prudential/src/main/main.html page.
  
  
 --------------- To Do List (in case more time is allotted) ---
